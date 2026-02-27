@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+THIS IS THE TITLE: Welcome to my blog! =D
 ---
+
+
+I LIKE BEANS
